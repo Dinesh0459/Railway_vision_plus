@@ -1,0 +1,13 @@
+.complaint {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  .complaint-img {
+    width: 200px;
+    border-radius: 8px;
+  }
+  .complaint-info {
+    font-family: Arial, sans-serif;
+  }
+  
